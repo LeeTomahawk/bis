@@ -14,7 +14,7 @@ BIS - Bezpieczeństwo infrastruktury sieciowej PROJEKT
 
 
 ## 2 kamień
-- [ ]	konfiguracja FHRP
+- [x]	konfiguracja FHRP
 - [x]	konfiguracja SNMP
 - [x]	konfiguracja AAA
 - [x]	zabezpieczenia przez atakami MAC
@@ -22,6 +22,6 @@ BIS - Bezpieczeństwo infrastruktury sieciowej PROJEKT
 - [x]	zabezpieczenia przez atakami DHCP
 - [x]	zabezpieczenia przez atakami STP
 - [x]	listy dostępu ACL
-- [ ]	EtherChannel
-- [ ]	konfiguracja poziomów dostępowych na urządzeniach sieciowych
+- [x]	EtherChannel
+- [x]	konfiguracja poziomów dostępowych na urządzeniach sieciowych
 - [ ]	dodatkowo procedura przywracania obrazu systemu operacyjnego urządzenia sieciowego
